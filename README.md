@@ -9,6 +9,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackson-hu1279&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&custom_title=Contribution%20Activity%20Graph" height="250" alt="activity-graph graph"  />
 </div>
 
+---
+
 - 🦾 I’m currently working on [Bupa Appointment Slot Check](https://github.com/jackson-hu1279/BUPA-Appointment-Slot-Check)
 
 - 🌱 I’m currently learning **Kafka & Data Warehousing**
@@ -19,9 +21,15 @@
 
 - 🧑🏼‍💻 Know about my [experiences](https://www.linkedin.com/in/renwei-jackson-hu-65a14516b/)
 
-###
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### Tools and Skills:
+
+#### Programming Languages
+
+<!-- <h3 align="left">Tools and Skills:</h3>
+<h4 align="left">Programming Languages</h4> -->
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
@@ -47,7 +55,13 @@
       height="40"
     />
   </a>
+</p>
 
+#### Database Management
+
+<!-- <h4 align="left">Database Management</h4> -->
+
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -80,7 +94,11 @@
       height="40"
     />
   </a>
+</p>
 
+#### Big Data & Machine Learning
+
+<p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
@@ -113,10 +131,26 @@
       height="40"
     />
   </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"
+      alt="spark"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
       alt="kafka"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg"
+      alt="airflow"
       width="40"
       height="40"
     />
@@ -137,23 +171,11 @@
       height="40"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
-      width="40"
-      height="40"
-    />
-  </a>
+</p>
 
+#### Web Development
+
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -210,6 +232,35 @@
       height="40"
     />
   </a>
+</p>
+
+#### DevOps
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+      alt="kubernetes"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"
+      alt="ansible"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -228,7 +279,10 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/renwei(jackson) hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renwei(jackson) hu" height="30" width="40" /></a>
 </p>
@@ -238,5 +292,5 @@
 ###
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="300" alt="quote"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="200" alt="quote"  />
 </div>
