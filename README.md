@@ -238,5 +238,5 @@
 ###
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="300" alt="quote"  />
 </div>
