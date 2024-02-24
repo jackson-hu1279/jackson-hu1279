@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Databases or ETL pipelines**
 
-- 📩 How to reach me **jacksonhu1279@gmail.com**
+- 📩 How to reach me jacksonhu1279@gmail.com
 
 - 🧑🏼‍💻 Know about my [experiences](https://www.linkedin.com/in/renwei-jackson-hu-65a14516b/)
 
@@ -26,9 +26,6 @@
 ### Tools and Skills:
 
 #### Programming Languages
-
-<!-- <h3 align="left">Tools and Skills:</h3>
-<h4 align="left">Programming Languages</h4> -->
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -59,21 +56,11 @@
 
 #### Database Management
 
-<!-- <h4 align="left">Database Management</h4> -->
-
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
       width="40"
       height="40"
     />
@@ -90,6 +77,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+      alt="sqlite"
       width="40"
       height="40"
     />
@@ -286,8 +281,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/renwei(jackson) hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renwei(jackson) hu" height="30" width="40" /></a>
 </p>
-
-<!-- <img src="https://raw.githubusercontent.com/jackson-hu1279/jackson-hu1279/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
