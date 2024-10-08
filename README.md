@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jackson</h1>
-<h3 align="center">An enthusiastic data engineer with interests in almost everything.</h3>
+<h3 align="center">An enthusiastic Cloud Engineer in Big Data with interests in almost everything!</h3>
 
 ###
 
@@ -11,11 +11,11 @@
 
 ---
 
-- 🦾 I’m currently working on [Bupa Appointment Slot Check](https://github.com/jackson-hu1279/BUPA-Appointment-Slot-Check)
+- 🦾 I’m currently working on [OC PlatformInfo Remover](https://github.com/jackson-hu1279/OC-PlatformInfo-Remover)
 
-- 🌱 I’m currently learning **Kafka & Data Warehousing**
+- 🌱 I’m currently learning **SwiftUI / iOS Development**
 
-- 💬 Ask me about **Databases or ETL pipelines**
+- 💬 Ask me about **Big Data or ETL pipelines**
 
 - 📩 How to reach me jacksonhu1279@gmail.com
 
@@ -48,6 +48,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>          
+  <a href="https://www.swift.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+      alt="swift"
       width="40"
       height="40"
     />
@@ -91,25 +99,9 @@
   </a>
 </p>
 
-#### Big Data & Machine Learning
+#### Big Data
 
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"
@@ -158,10 +150,47 @@
       height="40"
     />
   </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+</p>
+
+#### Machine Learning
+
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+      alt="numpy"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
+      alt="jupyter"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://opencv.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"
+      alt="opencv"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      alt="tensorflow"
       width="40"
       height="40"
     />
