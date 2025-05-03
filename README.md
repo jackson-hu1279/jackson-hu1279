@@ -13,9 +13,9 @@
 
 - 🦾 I’m currently working on [OC PlatformInfo Remover](https://github.com/jackson-hu1279/OC-PlatformInfo-Remover)
 
-- 🌱 I’m currently learning **SwiftUI / iOS Development**
+- 🌱 I’m currently learning **Cloud Architecture Design**
 
-- 💬 Ask me about **Big Data or ETL pipelines**
+- 💬 Ask me about **Big Data & ETL pipelines**
 
 - 📩 How to reach me jacksonhu1279@gmail.com
 
@@ -299,6 +299,35 @@
       alt="git"
       width="40"
       height="40"
+    />
+  </a>
+</p>
+
+### Certifications:
+
+<p>
+  <a href="https://www.credly.com/badges/ee0a0540-279c-4a64-84c0-8f89e5cdf0b3/public_url" target="_blank" rel="noreferrer">
+    <img
+      src="./images/aws-certified-solutions-architect-associate.png"
+      alt="solutions-architect-associate"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/4a89ce85-0a6f-4b90-b4f6-9b8e94820fad/public_url" target="_blank" rel="noreferrer">
+    <img
+      src="./images/aws-certified-ai-practitioner.png"
+      alt="ai-practitioner"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/801a3486-2006-4944-a125-791c153cd723/public_url" target="_blank" rel="noreferrer">
+    <img
+      src="./images/aws-certified-ai-practitioner-early-adopter.png"
+      alt="ai-practitioner-early-adopter"
+      width="60"
+      height="60"
     />
   </a>
 </p>
